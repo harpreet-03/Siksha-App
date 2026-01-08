@@ -21,7 +21,6 @@ The primary goal of Programming Siksha is to create an inclusive and comprehensi
 
 ## Screenshots
 
-<img src="https://github.com/Nikhilkumarmishra/Learn_Programing_App/assets/87891556/8e2f00c3-c37f-4134-8b4e-7c4c439bf27a" width="400" height="780"> 
 
 *Caption: Home screen showcasing the variety of courses available on Programming Siksha.*
 
